@@ -175,7 +175,7 @@ namespace Entidades
                 numeroInt /= 2;
             }
 
-            if(numero == 0)
+            if(numero > -1 && numero < 1)
             {
                 binario = "0000";
             }
