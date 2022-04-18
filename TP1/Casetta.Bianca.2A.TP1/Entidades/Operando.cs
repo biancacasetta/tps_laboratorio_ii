@@ -114,19 +114,23 @@ namespace Entidades
                 numeroFinal = 0;
             }
 
+            /*
+            Esta es la versión que utilicé yo, dado que mi VS está en inglés y reconoce el punto, pero no la coma, para números decimales
+            
             if(strNumero.Contains(","))
             {
-                strNumero = strNumero.Replace(",", "."); // Reemplazo la coma por un punto en caso de que el usuario se equivoque, dado que mi VS está en inglés y así me funciona
+                strNumero = strNumero.Replace(",", "."); // Reemplazo la coma por un punto en caso de que el usuario se equivoque
                 numeroFinal = double.Parse(strNumero);
             }
+            */
 
-            /*
+            // Versión para VS en español
             if (strNumero.Contains("."))
             {
                 strNumero = strNumero.Replace(".", ",");
                 numeroFinal = double.Parse(strNumero);
             }
-            */
+            
 
             return numeroFinal;
         }
