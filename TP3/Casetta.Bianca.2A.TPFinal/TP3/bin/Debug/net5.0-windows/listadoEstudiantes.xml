@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEstudiante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Bianca</Nombre>
+    <Apellido>Casetta</Apellido>
+    <Dni>39642326</Dni>
+    <FechaDeNacimiento>1996-06-26T00:00:00</FechaDeNacimiento>
+    <Genero>Femenino</Genero>
+    <Telefono>1165696865</Telefono>
+    <Domicilio>
+      <Calle>Peña Aeronáutica</Calle>
+      <Altura>2221</Altura>
+      <Ciudad>Ciudad Jardín</Ciudad>
+      <Provincia>Buenos Aires</Provincia>
+      <CodigoPostal>1684</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>biancacasetta@gmail.com</EMail>
+    <Curso>
+      <Nivel>Sexto_Año</Nivel>
+      <CuotaMensual>5500</CuotaMensual>
+      <Horarios>Jueves y Viernes 17hs</Horarios>
+      <Docente>Alejandro Castiglione</Docente>
+    </Curso>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Luca</Nombre>
+    <Apellido>Agnoli</Apellido>
+    <Dni>42417493</Dni>
+    <FechaDeNacimiento>2000-02-22T00:00:00</FechaDeNacimiento>
+    <Genero>Masculino</Genero>
+    <Telefono>1133334444</Telefono>
+    <Domicilio>
+      <Calle>Moreno</Calle>
+      <Altura>1220</Altura>
+      <Ciudad>Quilmes</Ciudad>
+      <Provincia>Buenos Aires</Provincia>
+      <CodigoPostal>1878</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>nahuquilmes2000@gmail.com</EMail>
+    <Curso>
+      <Nivel>Quinto_Año</Nivel>
+      <CuotaMensual>5000</CuotaMensual>
+      <Horarios>Martes y Miércoles 17hs</Horarios>
+      <Docente>Osvaldo Alegre</Docente>
+    </Curso>
+  </Estudiante>
+</ArrayOfEstudiante>
