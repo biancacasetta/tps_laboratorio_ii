@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEstudiante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Abelard</Nombre>
+    <Apellido>Brannigan</Apellido>
+    <Dni>33581341</Dni>
+    <FechaDeNacimiento>1975-04-20T00:00:00</FechaDeNacimiento>
+    <Genero>Masculino</Genero>
+    <Telefono>1165509950</Telefono>
+    <Domicilio>
+      <Calle>Haas</Calle>
+      <Altura>71</Altura>
+      <Ciudad>Urachiche</Ciudad>
+      <Provincia>Buenos Aires</Provincia>
+      <CodigoPostal>4087</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>abrannigan0@slashdot.org</EMail>
+    <Curso>
+      <Nivel>Primer_Año</Nivel>
+      <CuotaMensual>3000</CuotaMensual>
+      <Horarios>Martes y Jueves 18hs</Horarios>
+      <Docente>Esteban Laporte</Docente>
+    </Curso>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Gerrie</Nombre>
+    <Apellido>Cassedy</Apellido>
+    <Dni>44693784</Dni>
+    <FechaDeNacimiento>1988-06-15T00:00:00</FechaDeNacimiento>
+    <Genero>Femenino</Genero>
+    <Telefono>1139000533</Telefono>
+    <Domicilio>
+      <Calle>Randy</Calle>
+      <Altura>670</Altura>
+      <Ciudad>Verin Artashat</Ciudad>
+      <Provincia>Santa Fé</Provincia>
+      <CodigoPostal>1247</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>gcassedy1@telegraph.co.uk</EMail>
+    <Curso>
+      <Nivel>Primer_Año</Nivel>
+      <CuotaMensual>3000</CuotaMensual>
+      <Horarios>Martes y Jueves 18hs</Horarios>
+      <Docente>Esteban Laporte</Docente>
+    </Curso>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteParticular">
+    <Nombre>Gerda</Nombre>
+    <Apellido>Elverston</Apellido>
+    <Dni>48829773</Dni>
+    <FechaDeNacimiento>1970-10-21T00:00:00</FechaDeNacimiento>
+    <Genero>Masculino</Genero>
+    <Telefono>1172336761</Telefono>
+    <Domicilio>
+      <Calle>Quincy</Calle>
+      <Altura>75984</Altura>
+      <Ciudad>Hamburg</Ciudad>
+      <Provincia>Santa Fé</Provincia>
+      <CodigoPostal>1300</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Particular</TipoEstudiante>
+    <EMail>gelverston2@hexun.com</EMail>
+    <PrecioHora>1200</PrecioHora>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Fawn</Nombre>
+    <Apellido>Tolerton</Apellido>
+    <Dni>52814400</Dni>
+    <FechaDeNacimiento>1954-06-24T00:00:00</FechaDeNacimiento>
+    <Genero>No Binario</Genero>
+    <Telefono>1130209617</Telefono>
+    <Domicilio>
+      <Calle>Sachtjen</Calle>
+      <Altura>8</Altura>
+      <Ciudad>Stenungsund</Ciudad>
+      <Provincia>Santa Fé</Provincia>
+      <CodigoPostal>9206</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>ftolerton3@china.com.cn</EMail>
+    <Curso>
+      <Nivel>Primer_Año</Nivel>
+      <CuotaMensual>3000</CuotaMensual>
+      <Horarios>Martes y Jueves 18hs</Horarios>
+      <Docente>Esteban Laporte</Docente>
+    </Curso>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteExterno">
+    <Nombre>Roanne</Nombre>
+    <Apellido>Mapston</Apellido>
+    <Dni>29745379</Dni>
+    <FechaDeNacimiento>1978-08-12T00:00:00</FechaDeNacimiento>
+    <Genero>No Binario</Genero>
+    <Telefono>1174702798</Telefono>
+    <Domicilio>
+      <Calle>Hollow Ridge</Calle>
+      <Altura>339</Altura>
+      <Ciudad>Qibu</Ciudad>
+      <Provincia>Santa Fé</Provincia>
+      <CodigoPostal>5275</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Externo</TipoEstudiante>
+    <EMail>rmapston4@cpanel.net</EMail>
+    <Nivel>Tercer_Año</Nivel>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteExterno">
+    <Nombre>Wells</Nombre>
+    <Apellido>Day</Apellido>
+    <Dni>19577872</Dni>
+    <FechaDeNacimiento>2009-03-12T00:00:00</FechaDeNacimiento>
+    <Genero>Femenino</Genero>
+    <Telefono>1154053663</Telefono>
+    <Domicilio>
+      <Calle>Stephen</Calle>
+      <Altura>15</Altura>
+      <Ciudad>Tagakpan</Ciudad>
+      <Provincia>Santa Fé</Provincia>
+      <CodigoPostal>8321</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Externo</TipoEstudiante>
+    <EMail>wday5@umich.edu</EMail>
+    <Nivel>Primer_Año</Nivel>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Flossi</Nombre>
+    <Apellido>Porritt</Apellido>
+    <Dni>16312131</Dni>
+    <FechaDeNacimiento>1970-08-05T00:00:00</FechaDeNacimiento>
+    <Genero>Masculino</Genero>
+    <Telefono>1134427906</Telefono>
+    <Domicilio>
+      <Calle>Gulseth</Calle>
+      <Altura>5066</Altura>
+      <Ciudad>Donomulyo</Ciudad>
+      <Provincia>Córdoba</Provincia>
+      <CodigoPostal>5766</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>fporritt6@myspace.com</EMail>
+    <Curso>
+      <Nivel>Segundo_Año</Nivel>
+      <CuotaMensual>3500</CuotaMensual>
+      <Horarios>Lunes y Jueves 16hs</Horarios>
+      <Docente>Laura Perez</Docente>
+    </Curso>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteParticular">
+    <Nombre>Camille</Nombre>
+    <Apellido>Soughton</Apellido>
+    <Dni>33853840</Dni>
+    <FechaDeNacimiento>2009-06-07T00:00:00</FechaDeNacimiento>
+    <Genero>Femenino</Genero>
+    <Telefono>1137280672</Telefono>
+    <Domicilio>
+      <Calle>Mcbride</Calle>
+      <Altura>9633</Altura>
+      <Ciudad>Linköping</Ciudad>
+      <Provincia>Mendoza</Provincia>
+      <CodigoPostal>9191</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Particular</TipoEstudiante>
+    <EMail>csoughton7@dmoz.org</EMail>
+    <PrecioHora>1200</PrecioHora>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteParticular">
+    <Nombre>Bliss</Nombre>
+    <Apellido>Coughlan</Apellido>
+    <Dni>50829653</Dni>
+    <FechaDeNacimiento>1952-11-08T00:00:00</FechaDeNacimiento>
+    <Genero>Masculino</Genero>
+    <Telefono>1106010159</Telefono>
+    <Domicilio>
+      <Calle>Mallory</Calle>
+      <Altura>2</Altura>
+      <Ciudad>Nehe</Ciudad>
+      <Provincia>Santa Fé</Provincia>
+      <CodigoPostal>3469</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Particular</TipoEstudiante>
+    <EMail>bcoughlan8@forbes.com</EMail>
+    <PrecioHora>1200</PrecioHora>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Elnore</Nombre>
+    <Apellido>Rumin</Apellido>
+    <Dni>15301496</Dni>
+    <FechaDeNacimiento>2000-11-16T00:00:00</FechaDeNacimiento>
+    <Genero>Masculino</Genero>
+    <Telefono>1142346584</Telefono>
+    <Domicilio>
+      <Calle>Fuller</Calle>
+      <Altura>71208</Altura>
+      <Ciudad>Burirao</Ciudad>
+      <Provincia>Buenos Aires</Provincia>
+      <CodigoPostal>5686</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>erumin9@tinypic.com</EMail>
+    <Curso>
+      <Nivel>Segundo_Año</Nivel>
+      <CuotaMensual>3500</CuotaMensual>
+      <Horarios>Lunes y Jueves 16hs</Horarios>
+      <Docente>Laura Perez</Docente>
+    </Curso>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Torin</Nombre>
+    <Apellido>Sansbury</Apellido>
+    <Dni>24319383</Dni>
+    <FechaDeNacimiento>2004-04-01T00:00:00</FechaDeNacimiento>
+    <Genero>Femenino</Genero>
+    <Telefono>1166035016</Telefono>
+    <Domicilio>
+      <Calle>Quincy</Calle>
+      <Altura>8</Altura>
+      <Ciudad>Rehlovice</Ciudad>
+      <Provincia>Río Negro</Provincia>
+      <CodigoPostal>9078</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>tsansburya@unblog.fr</EMail>
+    <Curso>
+      <Nivel>Tercer_Año</Nivel>
+      <CuotaMensual>4000</CuotaMensual>
+      <Horarios>Miercoles y Viernes 16hs</Horarios>
+      <Docente>Silvia Canelo</Docente>
+    </Curso>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteExterno">
+    <Nombre>Dillon</Nombre>
+    <Apellido>Stather</Apellido>
+    <Dni>34059778</Dni>
+    <FechaDeNacimiento>2010-03-02T00:00:00</FechaDeNacimiento>
+    <Genero>Masculino</Genero>
+    <Telefono>1105624645</Telefono>
+    <Domicilio>
+      <Calle>Hermina</Calle>
+      <Altura>37</Altura>
+      <Ciudad>Ronfe</Ciudad>
+      <Provincia>Buenos Aires</Provincia>
+      <CodigoPostal>9425</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Externo</TipoEstudiante>
+    <EMail>dstatherb@over-blog.com</EMail>
+    <Nivel>Quinto_Año</Nivel>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteExterno">
+    <Nombre>Chad</Nombre>
+    <Apellido>Swafield</Apellido>
+    <Dni>47031076</Dni>
+    <FechaDeNacimiento>2008-04-06T00:00:00</FechaDeNacimiento>
+    <Genero>Masculino</Genero>
+    <Telefono>1114471995</Telefono>
+    <Domicilio>
+      <Calle>Michigan</Calle>
+      <Altura>16</Altura>
+      <Ciudad>Sremska Mitrovica</Ciudad>
+      <Provincia>Río Negro</Provincia>
+      <CodigoPostal>6863</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Externo</TipoEstudiante>
+    <EMail>cswafieldc@wiley.com</EMail>
+    <Nivel>Sexto_Año</Nivel>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Nissie</Nombre>
+    <Apellido>Winskill</Apellido>
+    <Dni>28296556</Dni>
+    <FechaDeNacimiento>1970-01-24T00:00:00</FechaDeNacimiento>
+    <Genero>No Binario</Genero>
+    <Telefono>1177543713</Telefono>
+    <Domicilio>
+      <Calle>Union</Calle>
+      <Altura>852</Altura>
+      <Ciudad>Oyem</Ciudad>
+      <Provincia>Río Negro</Provincia>
+      <CodigoPostal>1979</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>nwinskilld@dell.com</EMail>
+    <Curso>
+      <Nivel>Tercer_Año</Nivel>
+      <CuotaMensual>4000</CuotaMensual>
+      <Horarios>Miercoles y Viernes 16hs</Horarios>
+      <Docente>Silvia Canelo</Docente>
+    </Curso>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteParticular">
+    <Nombre>Corrianne</Nombre>
+    <Apellido>Crippes</Apellido>
+    <Dni>24275026</Dni>
+    <FechaDeNacimiento>1959-04-05T00:00:00</FechaDeNacimiento>
+    <Genero>Femenino</Genero>
+    <Telefono>1191094145</Telefono>
+    <Domicilio>
+      <Calle>Melvin</Calle>
+      <Altura>6030</Altura>
+      <Ciudad>Hässleholm</Ciudad>
+      <Provincia>Río Negro</Provincia>
+      <CodigoPostal>2959</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Particular</TipoEstudiante>
+    <EMail>ccrippese@intel.com</EMail>
+    <PrecioHora>1200</PrecioHora>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteExterno">
+    <Nombre>Isidoro</Nombre>
+    <Apellido>Stent</Apellido>
+    <Dni>42346769</Dni>
+    <FechaDeNacimiento>1992-06-28T00:00:00</FechaDeNacimiento>
+    <Genero>Masculino</Genero>
+    <Telefono>1179872699</Telefono>
+    <Domicilio>
+      <Calle>Raven</Calle>
+      <Altura>78</Altura>
+      <Ciudad>Lahān</Ciudad>
+      <Provincia>Buenos Aires</Provincia>
+      <CodigoPostal>4394</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Externo</TipoEstudiante>
+    <EMail>istentf@vimeo.com</EMail>
+    <Nivel>Segundo_Año</Nivel>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteExterno">
+    <Nombre>Tara</Nombre>
+    <Apellido>Stiffell</Apellido>
+    <Dni>49777029</Dni>
+    <FechaDeNacimiento>1960-10-20T00:00:00</FechaDeNacimiento>
+    <Genero>Femenino</Genero>
+    <Telefono>1199587351</Telefono>
+    <Domicilio>
+      <Calle>Starling</Calle>
+      <Altura>554</Altura>
+      <Ciudad>Vacha</Ciudad>
+      <Provincia>Buenos Aires</Provincia>
+      <CodigoPostal>4999</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Externo</TipoEstudiante>
+    <EMail>tstiffellg@acquirethisname.com</EMail>
+    <Nivel>Tercer_Año</Nivel>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Jacynth</Nombre>
+    <Apellido>Brecknall</Apellido>
+    <Dni>52268822</Dni>
+    <FechaDeNacimiento>1959-12-23T00:00:00</FechaDeNacimiento>
+    <Genero>Masculino</Genero>
+    <Telefono>1102745098</Telefono>
+    <Domicilio>
+      <Calle>Jenna</Calle>
+      <Altura>385</Altura>
+      <Ciudad>Asen</Ciudad>
+      <Provincia>Mendoza</Provincia>
+      <CodigoPostal>6022</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>jbrecknallh@diigo.com</EMail>
+    <Curso>
+      <Nivel>Cuarto_Año</Nivel>
+      <CuotaMensual>4500</CuotaMensual>
+      <Horarios>Viernes 15hs</Horarios>
+      <Docente>Mariano Torres</Docente>
+    </Curso>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteParticular">
+    <Nombre>Cyndie</Nombre>
+    <Apellido>Tottie</Apellido>
+    <Dni>18038863</Dni>
+    <FechaDeNacimiento>1989-02-06T00:00:00</FechaDeNacimiento>
+    <Genero>Masculino</Genero>
+    <Telefono>1145596778</Telefono>
+    <Domicilio>
+      <Calle>Sundown</Calle>
+      <Altura>7</Altura>
+      <Ciudad>Xiangzhu</Ciudad>
+      <Provincia>Santa Fé</Provincia>
+      <CodigoPostal>5294</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Particular</TipoEstudiante>
+    <EMail>ctottiei@pinterest.com</EMail>
+    <PrecioHora>1200</PrecioHora>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Sam</Nombre>
+    <Apellido>Speed</Apellido>
+    <Dni>54589614</Dni>
+    <FechaDeNacimiento>1993-05-27T00:00:00</FechaDeNacimiento>
+    <Genero>Femenino</Genero>
+    <Telefono>1191248171</Telefono>
+    <Domicilio>
+      <Calle>Nobel</Calle>
+      <Altura>58</Altura>
+      <Ciudad>Pinggang</Ciudad>
+      <Provincia>Santa Fé</Provincia>
+      <CodigoPostal>2466</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>sspeedj@bbc.co.uk</EMail>
+    <Curso>
+      <Nivel>Quinto_Año</Nivel>
+      <CuotaMensual>5000</CuotaMensual>
+      <Horarios>Martes y Miercoles 17hs</Horarios>
+      <Docente>Osvaldo Alegre</Docente>
+    </Curso>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteExterno">
+    <Nombre>Regina</Nombre>
+    <Apellido>Sansun</Apellido>
+    <Dni>25270548</Dni>
+    <FechaDeNacimiento>1954-04-27T00:00:00</FechaDeNacimiento>
+    <Genero>No Binario</Genero>
+    <Telefono>1127792602</Telefono>
+    <Domicilio>
+      <Calle>Loeprich</Calle>
+      <Altura>8772</Altura>
+      <Ciudad>Pa Mok</Ciudad>
+      <Provincia>Río Negro</Provincia>
+      <CodigoPostal>7873</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Externo</TipoEstudiante>
+    <EMail>rsansunk@storify.com</EMail>
+    <Nivel>Cuarto_Año</Nivel>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteParticular">
+    <Nombre>Jayne</Nombre>
+    <Apellido>Marchetti</Apellido>
+    <Dni>23411878</Dni>
+    <FechaDeNacimiento>2000-11-23T00:00:00</FechaDeNacimiento>
+    <Genero>No Binario</Genero>
+    <Telefono>1190492578</Telefono>
+    <Domicilio>
+      <Calle>Stuart</Calle>
+      <Altura>66</Altura>
+      <Ciudad>Oeiras</Ciudad>
+      <Provincia>Córdoba</Provincia>
+      <CodigoPostal>3519</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Particular</TipoEstudiante>
+    <EMail>jmarchettil@bloglines.com</EMail>
+    <PrecioHora>1200</PrecioHora>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Gilles</Nombre>
+    <Apellido>Ailward</Apellido>
+    <Dni>10319701</Dni>
+    <FechaDeNacimiento>1998-05-28T00:00:00</FechaDeNacimiento>
+    <Genero>No Binario</Genero>
+    <Telefono>1111830396</Telefono>
+    <Domicilio>
+      <Calle>Mitchell</Calle>
+      <Altura>777</Altura>
+      <Ciudad>Xinlin</Ciudad>
+      <Provincia>Mendoza</Provincia>
+      <CodigoPostal>4395</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>gailwardm@prlog.org</EMail>
+    <Curso>
+      <Nivel>Quinto_Año</Nivel>
+      <CuotaMensual>5000</CuotaMensual>
+      <Horarios>Martes y Miercoles 17hs</Horarios>
+      <Docente>Osvaldo Alegre</Docente>
+    </Curso>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Nilson</Nombre>
+    <Apellido>Shrubshall</Apellido>
+    <Dni>19903597</Dni>
+    <FechaDeNacimiento>1973-04-03T00:00:00</FechaDeNacimiento>
+    <Genero>Femenino</Genero>
+    <Telefono>1125243032</Telefono>
+    <Domicilio>
+      <Calle>Browning</Calle>
+      <Altura>4</Altura>
+      <Ciudad>Karak City</Ciudad>
+      <Provincia>Santa Fé</Provincia>
+      <CodigoPostal>1999</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>nshrubshalln@dailymail.co.uk</EMail>
+    <Curso>
+      <Nivel>Sexto_Año</Nivel>
+      <CuotaMensual>5500</CuotaMensual>
+      <Horarios>Jueves y Viernes 17hs</Horarios>
+      <Docente>Alejandro Castiglione</Docente>
+    </Curso>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Rosina</Nombre>
+    <Apellido>Tapply</Apellido>
+    <Dni>43744444</Dni>
+    <FechaDeNacimiento>1963-06-17T00:00:00</FechaDeNacimiento>
+    <Genero>Femenino</Genero>
+    <Telefono>1155600180</Telefono>
+    <Domicilio>
+      <Calle>Veith</Calle>
+      <Altura>48</Altura>
+      <Ciudad>Quchomo</Ciudad>
+      <Provincia>Mendoza</Provincia>
+      <CodigoPostal>9902</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>rtapplyo@digg.com</EMail>
+    <Curso>
+      <Nivel>Sexto_Año</Nivel>
+      <CuotaMensual>5500</CuotaMensual>
+      <Horarios>Jueves y Viernes 17hs</Horarios>
+      <Docente>Alejandro Castiglione</Docente>
+    </Curso>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Bianca</Nombre>
+    <Apellido>Casetta</Apellido>
+    <Dni>39642326</Dni>
+    <FechaDeNacimiento>1996-06-26T00:00:00</FechaDeNacimiento>
+    <Genero>Femenino</Genero>
+    <Telefono>5491165696865</Telefono>
+    <Domicilio>
+      <Calle>Peña Aeronáutica</Calle>
+      <Altura>2221</Altura>
+      <Ciudad>Ciudad Jardín</Ciudad>
+      <Provincia>Buenos Aires</Provincia>
+      <CodigoPostal>1684</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>biancacasetta@gmail.com</EMail>
+    <Curso>
+      <Nivel>Sexto_Año</Nivel>
+      <CuotaMensual>5500</CuotaMensual>
+      <Horarios>Jueves y Viernes 17hs</Horarios>
+      <Docente>Alejandro Castiglione</Docente>
+    </Curso>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteExterno">
+    <Nombre>Luca</Nombre>
+    <Apellido>Agnoli</Apellido>
+    <Dni>42417493</Dni>
+    <FechaDeNacimiento>2000-02-22T00:00:00</FechaDeNacimiento>
+    <Genero>Masculino</Genero>
+    <Telefono>1145678912</Telefono>
+    <Domicilio>
+      <Calle>Moreno</Calle>
+      <Altura>1220</Altura>
+      <Ciudad>Quilmes</Ciudad>
+      <Provincia>Buenos Aires</Provincia>
+      <CodigoPostal>1878</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Externo</TipoEstudiante>
+    <EMail>lucaag@gmail.com</EMail>
+    <Nivel>Tercer_Año</Nivel>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteParticular">
+    <Nombre>Leandro</Nombre>
+    <Apellido>Avalos</Apellido>
+    <Dni>34568912</Dni>
+    <FechaDeNacimiento>1991-12-27T00:00:00</FechaDeNacimiento>
+    <Genero>Masculino</Genero>
+    <Telefono>1122223333</Telefono>
+    <Domicilio>
+      <Calle>Chascomus</Calle>
+      <Altura>16</Altura>
+      <Ciudad>Villa Dominico</Ciudad>
+      <Provincia>Buenos Aires</Provincia>
+      <CodigoPostal>1876</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Particular</TipoEstudiante>
+    <EMail>avaloslean@hotmail.com</EMail>
+    <PrecioHora>1200</PrecioHora>
+  </Estudiante>
+  <Estudiante xsi:type="EstudianteCurso">
+    <Nombre>Gianfranco</Nombre>
+    <Apellido>Casetta</Apellido>
+    <Dni>42568316</Dni>
+    <FechaDeNacimiento>2001-01-10T00:00:00</FechaDeNacimiento>
+    <Genero>Masculino</Genero>
+    <Telefono>1165696865</Telefono>
+    <Domicilio>
+      <Calle>Peña Aeronautica</Calle>
+      <Altura>2221</Altura>
+      <Ciudad>Ciudad Jardin</Ciudad>
+      <Provincia>Buenos Aires</Provincia>
+      <CodigoPostal>1684</CodigoPostal>
+    </Domicilio>
+    <TipoEstudiante>Curso</TipoEstudiante>
+    <EMail>gcasetta@gmail.com</EMail>
+    <Curso>
+      <Nivel>Cuarto_Año</Nivel>
+      <CuotaMensual>5000</CuotaMensual>
+      <Horarios>Martes y Miercoles 17hs</Horarios>
+      <Docente>Osvaldo Alegre</Docente>
+    </Curso>
+  </Estudiante>
+</ArrayOfEstudiante>
