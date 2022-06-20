@@ -19,7 +19,7 @@ namespace TP4
         public delegate void DelegadoModificar();
         private DelegadoModificar delegadoModificar;
         private Estudiante estudiante;
-        public delegate bool ConfirmarDniEncontradoHandler(Estudiante estudiante, Delegate delegado);
+        public delegate bool ConfirmarDniEncontradoHandler(Estudiante estudiante);
         private event ConfirmarDniEncontradoHandler OnBuscarDni;
 
         public FrmDni(Instituto instituto)
