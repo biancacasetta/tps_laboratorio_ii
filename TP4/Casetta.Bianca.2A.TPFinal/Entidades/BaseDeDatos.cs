@@ -41,7 +41,7 @@ namespace Entidades
                     int dni = reader.GetInt32(1);
                     string nombre = reader.GetString(2);
                     string apellido = reader.GetString(3);
-                    int cuota = (int)reader.GetDouble(4);
+                    int cuota = reader.GetInt32(4);
                     string horarios = reader.GetString(5);
                     string docente = reader.GetString(6);
 
